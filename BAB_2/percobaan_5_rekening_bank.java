@@ -1,7 +1,4 @@
-/*
- * @author Ilham Wicaksono
- * @app : netbeans IDE 8.2
- */
+
 public class Bank {
     double saldo;
     int no_rekening;
