@@ -1,7 +1,4 @@
-/*
- * @author Ilham Wicaksono
- * @app : netbeans IDE 8.2
- */
+
  public class Mahasiswa {
     String nama;
     String nim;
