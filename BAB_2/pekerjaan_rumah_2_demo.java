@@ -1,7 +1,4 @@
-/*
- * @author Ilham Wicaksono
- * @app : netbeans IDE 8.2
- */
+
 public class HewanDemo {
     public static void main(String[] args){
         Hewan hewan1 = new Hewan();
